@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402560142394",
+    "project_id": "zaman-todoapp",
+    "storage_bucket": "zaman-todoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402560142394:android:12fa71751cfa1adb793903",
+        "android_client_info": {
+          "package_name": "com.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402560142394-hc27oenhpua9i0hnmarndncrsjtt3vl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcIdcPZoApAm7AO52XtmuQ-vphxPZ7Stk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402560142394-hc27oenhpua9i0hnmarndncrsjtt3vl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
